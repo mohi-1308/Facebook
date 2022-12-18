@@ -1,0 +1,3 @@
+xpath by contains
+for text:- actitime- forgetpassward
+//a[contains(text(),'Forgot your password?')]
