@@ -1,3 +1,4 @@
 xpath by contains
 for text:- actitime- forgetpassward
 //a[contains(text(),'Forgot your ')]
+//a[contains(text(),'Forgot your1 ')]
